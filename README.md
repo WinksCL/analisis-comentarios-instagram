@@ -1,8 +1,8 @@
-# Análisis de Comentarios en Instagram
+# Análisis de sentimientos en Instagram
 
 ## Descripción del Proyecto
 
-El "Análisis de Comentarios en Instagram" es una aplicación diseñada para obtener y analizar los comentarios de las publicaciones más recientes de un perfil de Instagram. Proporciona un análisis de sentimientos para determinar la percepción de la marca y muestra gráficos interactivos para visualizar los resultados.
+El "Análisis de sentimientos en Instagram" es una aplicación diseñada para obtener y analizar los comentarios de las publicaciones más recientes de un perfil de Instagram. Proporciona un análisis de sentimientos para determinar la percepción de la marca y muestra gráficos interactivos para visualizar los resultados.
 
 ## Integrantes del Equipo
 
