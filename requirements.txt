@@ -2,7 +2,6 @@ pandas
 plotly
 plotly.express
 nltk
-beautifulsoup4
 requests
 streamlit
 instaloader
