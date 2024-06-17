@@ -23,7 +23,6 @@ El "Análisis de sentimientos en Instagram" es una aplicación diseñada para ob
 - Biblioteca `pandas`
 - Biblioteca `plotly`
 - Biblioteca `nltk`
-- Biblioteca `beautifulsoup4`
 - Biblioteca `instaloader`
 - Biblioteca `streamlit`
 
