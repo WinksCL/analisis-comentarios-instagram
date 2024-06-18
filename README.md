@@ -8,7 +8,6 @@ El "Análisis de sentimientos en Instagram" es una aplicación diseñada para ob
 
 - **Benjamin Valdivia**
 - **Stefania Gonzalez**
-- **Dariel Opazo**
 - **Belen Zapata**
 
 ## Funcionalidades
